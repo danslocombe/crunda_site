@@ -1,6 +1,6 @@
 
 body {
-    background-color: black;
+    background-color: #3b343e;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -49,4 +49,32 @@ a:visited {
   color: pink;
   background-color: transparent;
   text-decoration: none;
+}
+
+.sociallink {
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.sociallink img {
+    height: 30px;
+    margin-right: 5px;
+}
+
+button {
+    background-color: #3b343e;
+    color: white;
+    font-size: 16px !important;
+    border-radius: 20px;
+    border: 1px solid white;
+    padding: 12px 28px;
+}
+
+
+button:hover {
+    background-color: #84698f;
+  color: rgb(37, 216, 46);
+    border: 1px solid rgb(37, 216, 46);
 }
