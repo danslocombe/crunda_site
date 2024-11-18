@@ -1,0 +1,87 @@
+[tutorial]
+We join our hero falling through the vacuum.
+(wait 0.1s)
+Jettisoned into the (style wavy) depths of space (style)
+
+
+[level_4]
+Crunda is a trail across the asteroid belt.
+(wait 0.125s)
+The darkness occasionally interupted by
+truckers lugging ores between lonely spaceports.
+(wait 0.25s)
+Leaping and spewing, beltching electromagnetic
+noise, fumes and oil.
+
+[level_8]
+Crunda is a trail across the asteroid belt.
+(wait 0.125s)
+It once was a historic pilgrimage route, with 
+artificial atmospheres and plants marking the life
+of a long dead saint.
+(wait 0.25s)
+But its popularity was its downfall, as the momentum
+of each  traveller pushed the steps further apart.
+
+[outfit|hat|WizardHat]
+What a cute hat!
+
+[outfit|hat_locked|WizardHat]
+Locked - 1 Gold Medal
+
+[outfit|skin|Orphan]
+#(j) "Children are Worthless" (/j)
+"Children are Worthless"
+(wait 0.25s)
+The motto of the West Jupiter Space
+Orphanage stands entombed in a
+fluorescent tube outside its entrance.
+(wait 0.25s)
+It's also branded into the frail
+aluminium frame of the escapee.
+
+[outfit|skin|Spaceship]
+Mr January's shipping co runs a
+pretty tight ship...
+(wait 1s)
+(clear)
+
+That ship may be an antique
+but it's still a feat to make
+several hundred leaps an hour
+without loosing or losing
+any screws...
+(wait 2s)
+(clear)
+
+A childhood in microgravity gives
+an appreciation for safety as
+well as an elongated spine.
+
+[outfit|skin_locked|Spaceship]
+Locked - 3 Gold Medals
+
+[outfit|skin|Blob]
+All Fizzglobbers are born to be happy
+(wait 1s)
+(clear)
+
+Jolity chips trigger gaity glands
+to send glee globules directly to
+the centre of every cell in their
+bodies.
+(wait 2s)
+(clear)
+
+They are constantly elated and over
+whichever moon happens to be closest.
+(wait 1.5s)
+(clear)
+
+From an auditors perspective, they are
+incredibly useful to offset any grumpiness
+from a couple of melodramatic orphan-bots.
+(wait 2s)
+
+[outfit|skin_locked|Blob]
+Locked - 8 Gold Medals

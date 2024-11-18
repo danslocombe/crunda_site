@@ -1,0 +1,49 @@
+
+body {
+    font-family:'Segoe UI','Roboto',sans-serif;
+}
+
+#canvas {
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#outerborder {
+    padding-bottom: 0;
+    padding-top: 3%;
+    height: auto;
+}
+
+#align {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#footers {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#footer_left {
+    color: whitesmoke;
+    display:flex;
+    flex-direction: row;
+}
+
+#footer_text {
+    color: whitesmoke;
+    text-align: right;
+}
+
+a {
+    color: whitesmoke;
+}
