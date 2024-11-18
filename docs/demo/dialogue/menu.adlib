@@ -42,16 +42,14 @@ aluminium frame of the escapee.
 
 [outfit|skin|Spaceship]
 Mr January's shipping co runs a
-pretty tight ship...
-(wait 1s)
-(clear)
+pretty tight ship.
+(wait 0.5s)
 
-That ship may be an antique
-but it's still a feat to make
-several hundred leaps an hour
-without loosing or losing
-any screws...
-(wait 2s)
+That ship may be an antique but 
+it's still a feat to make several
+hundred leaps an hour without
+loosing or losing any screws.
+(wait 1s)
 (clear)
 
 A childhood in microgravity gives
@@ -62,26 +60,23 @@ well as an elongated spine.
 Locked - 3 Gold Medals
 
 [outfit|skin|Blob]
-All Fizzglobbers are born to be happy
-(wait 1s)
-(clear)
-
-Jolity chips trigger gaity glands
-to send glee globules directly to
-the centre of every cell in their
-bodies.
-(wait 2s)
+All Fizzglobbers are born to be happy.
+(wait 0.5s)
+ 
+Jolity chips trigger gaity glands to
+send glee globules directly to the
+centre of every cell in their bodies.
+(wait 1.0s)
 (clear)
 
 They are constantly elated and over
 whichever moon happens to be closest.
-(wait 1.5s)
-(clear)
+(wait 0.5s)
 
 From an auditors perspective, they are
 incredibly useful to offset any grumpiness
 from a couple of melodramatic orphan-bots.
-(wait 2s)
+(wait 1s)
 
 [outfit|skin_locked|Blob]
 Locked - 8 Gold Medals
