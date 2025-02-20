@@ -46,7 +46,7 @@ var discordInvite = discordInvite || function() {
 
 $(document).ready(function() {
     discordInvite.init({
-        inviteCode: '8wnsjuK2',
+        inviteCode: '9rwFpAPxTc',
         title: 'Crunda',
         introText: 'Join the discord server!',
     });
